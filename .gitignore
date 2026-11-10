@@ -1,0 +1,15 @@
+race_unnamed
+race_named
+race_judge
+race_car
+race_log
+mq_judge
+mq_car
+mq_log
+*.o
+race.log
+tests/*.out
+tests/*.log
+tests/*.tail
+tests/*.err
+.DS_Store
